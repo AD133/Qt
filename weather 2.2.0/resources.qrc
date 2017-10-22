@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>data/city.txt</file>
+        <file>data/lm.png</file>
+        <file>data/local_city.txt</file>
+    </qresource>
+</RCC>
